@@ -13,7 +13,7 @@ Data comes from the SQL course. Link to the course: (https://www.youtube.com/wat
 4. Which skills are associated with higher salaries?
 5. What is the most optimal skill set to learn?
 
-# Tools
+# Tool
 For this project, the following tools were used:
 - **SQL**: querying the database;
 - **PostgreSQL**: database management system for organizing and managing data;
@@ -49,7 +49,7 @@ LIMIT 10;
 
 The bar graph visualizing the top 10 salaries for data analysts was generated with Python based on the SQL query results:
 
-![top_paying_jobs.png](assets\top_paying_jobs.png)
+![top_paying_jobs.png](assets/top_paying_jobs.png)
 
 ```py
 top_jobs = pd.read_csv('top_paying_jobs_ca.csv')
@@ -119,7 +119,7 @@ LIMIT 10;
 ```
 The bar graph visualizing the top 10 most demanded skills for data analysts was generated with Python based on the SQL query results:
 
-![top_demanded_skills.png](assets\top_demanded_skills.png) 
+![top_demanded_skills.png](assets/top_demanded_skills.png) 
 
 ```py
 fig = plt.figure(figsize=(5,3))
@@ -154,7 +154,7 @@ LIMIT 25;
 
 Here is a breakdown of average salaries for different skills in the data analytics field based on the query results:
 
-![top_paying_skills.png](assets\top_paying_skills.png) 
+![top_paying_skills.png](assets/top_paying_skills.png) 
 
 
 **Key Highlights**:
@@ -206,7 +206,7 @@ LIMIT 25;
 
 The bar graph visualizing the optimal skills for data analysts was generated with Python based on the SQL query results:
 
-![optimal_skills.png](assets\optimal_skills.png) 
+![optimal_skills.png](assets/optimal_skills.png) 
 
 ```py
 fig, (ax1,ax2)=plt.subplots(nrows=1,ncols=2,figsize=(20,8))
