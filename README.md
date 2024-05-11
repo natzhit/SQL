@@ -6,14 +6,14 @@ SQL queries: [project_sql](/project_sql/)
 The idea for the project arose from a need to identify the skills required for a data analyst in Canada that are in high demand and associated with higher salaries, thereby uncovering optimal employment opportunities and simplifying the process for other jobseekers.
 Data comes from the SQL course. Link to the course: (https://www.youtube.com/watch?v=7mz73uXD9DA).
 
-# Questions:
+# Questions
 1. What are the top-paying jobs in data analytics in Canada?
 2. What skills are needed for these top-paying jobs?
 3. What skills are in high demand for data analysts in Canada?
 4. Which skills are associated with higher salaries?
 5. What is the most optimal skill set to learn?
 
-# Tool
+# Tools
 For this project, the following tools were used:
 - **SQL**: querying the database;
 - **PostgreSQL**: database management system for organizing and managing data;
