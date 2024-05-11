@@ -231,6 +231,7 @@ ax1.set_xlim(0,18)
 ax2.set_xlim(0,100000)
 ```
 **Key Highlights**:
+
 The data suggest that the following five trending skills are particularly essential:
 - **SQL**: SQL is the most commonly requested skill among the top five skills listed. Despite its high demand, the average salary associated with SQL proficiency indicates that it is a foundational skill for data analysts but may not command the highest salaries on its own.
 - **Python**: Python is highly valued for its versatility in data analysis, the data suggest that proficiency in Python may lead to slightly better compensation compared to SQL.
